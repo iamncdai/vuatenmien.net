@@ -13,6 +13,7 @@ const DOMAINS = [
   "MayTinhViet.com",
   "MetaBox.vn",
   "NangLuongGio.com",
+  "QuickSrc.com",
   "San24h.com",
   "SieuUngDung.com",
   "TienDiDong.com",
@@ -26,6 +27,7 @@ const DOMAINS = [
   "VuaNhaDat.com",
   "VuongQuoc.net",
   "VuongQuocHoa.com",
+  "1Passkeys.com",
 ];
 
 app.get('/', (req, res) => {
